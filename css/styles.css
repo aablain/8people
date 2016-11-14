@@ -1,0 +1,36 @@
+h1 {
+  background-color: rgb(255, 205, 150);
+  font-weight: bold;
+  color: rgb(205, 121, 68);
+}
+
+.red {
+  color: red;
+  clear: both;
+  text-align: right;
+}
+
+#red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+img {
+  height: 200px;
+  width:150px;
+}
+
+.person {
+  display:inline-block;
+  position: relative;
+  margin: 15px;
+  align-items: center;
+  text-align: center;
+}
+
+#stuff {
+  width: 750px;
+}
